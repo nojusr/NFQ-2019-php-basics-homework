@@ -21,5 +21,5 @@ Dar kilo mintis daryti kažkokį klaidų tikrinimą su try{}catch{}, bet, kvieč
    Šiuo atveju pervesti kintamieji yra paverčiami į 'int' tipą funkcijos pradžioje, t.y pavertimas vyksta funkcijos iškvietimo metu.
 * Strict
 
-   declare(strict_types=1) nelabai keičia situacijos (lyginant su Soft), nes kviečiant funkciją visi pateikti kintamieji yra paversti į int. 
+   declare(strict_types=1) nelabai keičia situacijos (lyginant su Soft), nes kviečiant funkciją visi pateikti kintamieji yra paversti į 'int'. 
 		
