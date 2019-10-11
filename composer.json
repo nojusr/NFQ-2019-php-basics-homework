@@ -1,0 +1,12 @@
+{
+    "name": "nojus/nfq-2019-php-basics-homework",
+    "type": "project",
+    "require": {
+        "jfcherng/php-color-output": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nfq\\Akademija\\": "functions/"
+        }
+    }
+}
